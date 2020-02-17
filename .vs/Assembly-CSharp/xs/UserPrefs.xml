@@ -1,15 +1,11 @@
 ﻿<Properties StartupConfiguration="{2053AA52-9BD7-9711-81A1-353CE4BF990B}|">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/PlayerController2.cs">
-    <Files>
-      <File FileName="Assets/Scripts/PlayerController.cs" Line="4" Column="1" />
-      <File FileName="Assets/Scripts/Countdown.cs" />
-      <File FileName="Assets/Scripts/Startover.cs" />
-      <File FileName="Assets/Scripts/PlayerController2.cs" Line="23" Column="6" />
-    </Files>
+  <MonoDevelop.Ide.Workbench>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="Assignment 1" expanded="True" selected="True" />
+          <Node name="Assembly-CSharp" expanded="True">
+            <Node name="Assets" expanded="True" selected="True" />
+          </Node>
         </State>
       </Pad>
     </Pads>
